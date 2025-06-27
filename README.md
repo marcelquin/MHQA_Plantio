@@ -47,7 +47,8 @@ Redes para Cach de métodos necessários
 🚀 Como executar localmente
 
 1. Clone os repositórios
-bash
+
+
 FRONTEND: git clone https://github.com/marcelquin/Plantio-frontend.git
 
 BACKEND: git clone https://github.com/marcelquin/plantio-backend.git
