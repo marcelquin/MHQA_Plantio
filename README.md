@@ -48,7 +48,6 @@ Redes para Cach de métodos necessários
 
 1. Clone os repositórios
 
-
 FRONTEND: git clone https://github.com/marcelquin/Plantio-frontend.git
 
 BACKEND: git clone https://github.com/marcelquin/plantio-backend.git
@@ -58,19 +57,5 @@ Crie um banco PostgreSQL local com as credenciais correspondentes ao application
 
 Execute o projeto com Maven ou sua IDE favorita
 
-bash
-Copiar
-Editar
-cd plantio-backend
-./mvnw spring-boot:run
-
 3. Configure o frontend
 Instale as dependências e inicie o projeto
-
-bash
-Copiar
-Editar
-cd Plantio-frontend
-npm install
-npm run dev
-
