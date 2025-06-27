@@ -48,11 +48,9 @@ Redes para Cach de métodos necessários
 
 1. Clone os repositórios
 bash
-Copiar
-Editar
-git clone https://github.com/marcelquin/Plantio-frontend.git
+FRONTEND: git clone https://github.com/marcelquin/Plantio-frontend.git
 
-git clone https://github.com/marcelquin/plantio-backend.git
+BACKEND: git clone https://github.com/marcelquin/plantio-backend.git
 
 3. Configure o backend
 Crie um banco PostgreSQL local com as credenciais correspondentes ao application.properties ou .yml
